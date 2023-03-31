@@ -19,4 +19,4 @@ for numero in numeros:
     print("Tabuada do: {}".format(numero))
     for multiplic in numeros:
         print(numero * multiplic)
-    print("----------------")    
+    print("-" * 12)     
